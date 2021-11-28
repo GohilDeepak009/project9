@@ -10,7 +10,7 @@ Website where organisation/community can send announcement,news,updates to group
 This website is made on LAMP(Linux, Apache ,My Sql, PHP )
 ## Demo Video
 
-link
+https://www.loom.com/share/0fe184baaea94f94963b8c773c44a11a?sharedAppSource=personal_library
 
 
 ## Authors
